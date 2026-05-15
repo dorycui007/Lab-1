@@ -38,4 +38,8 @@ class FizzBuzz {
 
         }
     }
+
+    public static void doFizzBuzz(int arg) {
+        System.out.println(arg);
+    }
 }
